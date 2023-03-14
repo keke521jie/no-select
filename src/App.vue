@@ -1,6 +1,6 @@
 <template>
   <router-view></router-view>
-  <FootNav />
+  <!-- <FootNav /> -->
 </template>
 
 <script setup>

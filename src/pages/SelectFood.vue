@@ -66,6 +66,7 @@ function select() {
     color: #fff;
     font-weight: 700;
     width: 65px;
+    font-size: 18px;
   }
   .btn {
     width: 40px;
